@@ -13,6 +13,11 @@
 <img src = "img/gsites06.png">  
 Скопіюйте посилання на заклад
 <img src = "img/gsites07.png">  
+
+## Реєстрація акаунту Google
+Якщо ви не зареєстровані в Google - створіть <a href = "https://github.com/mikh-maksi/it-independence/tree/main/lesson01">обліковий запис</a>.
+
+## Робота із Google-документами
 Відкрийте Google.документи та створіть таблицю
 <img src = "img/gsites08.png">  
 <img src = "img/gsites09.png">  
@@ -44,3 +49,7 @@
 Подивіться на результат
 <img src = "img/gsites24.png">  
 
+
+## Швидкість набору
+Швидкість набору тексту - це дуже важлива властивість майбутнього розробника сайтів. Давайте превіримо швидкість набору тексту:
+<a href = "https://github.com/mikh-maksi/it-independence/tree/main/lesson06">Робота із клавіатурним тренажером</a>.
