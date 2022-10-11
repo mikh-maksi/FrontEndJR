@@ -11,4 +11,16 @@
 <a href = "https://html-css-js-autocheck.goiteens.com/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=z01abcd73" target = "_blank">Task 4</a><br>
 <a href = "https://html-css-js-autocheck.goiteens.com/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=01abcde74" target = "_blank">Task 5</a><br>
 <a href = "https://html-css-js-autocheck.goiteens.com/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=1abcdef75" target = "_blank">Task 6</a>
+  
+Після підключення до боту - він видає наступні повідомлення:  
+<img src ="img/wishesboard02.jpg">  
+  
+<img src ="img/wishesboard03.jpg">  
+  
+<img src ="img/wishesboard04.jpg">  
 
+  
+<img src ="img/wishesboard06.jpg">  
+  
+<h2>Завдання 2</h2>
+<img src ="img/wishesboard07.jpg">  
