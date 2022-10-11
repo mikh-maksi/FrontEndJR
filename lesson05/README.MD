@@ -24,3 +24,10 @@
   
 <h2>Завдання 2</h2>
 <img src ="img/wishesboard07.jpg">  
+
+
+<img src ="img/wishesboard10.jpg">  
+<img src ="img/wishesboard11.jpg">  
+<img src ="img/wishesboard12.jpg">  
+<img src ="img/wishesboard13.jpg">  
+<img src ="img/wishesboard14.jpg">  
