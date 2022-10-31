@@ -31,3 +31,5 @@
 <img src ="img/wishesboard12.jpg">  
 <img src ="img/wishesboard13.jpg">  
 <img src ="img/wishesboard14.jpg">  
+
+## День другий
