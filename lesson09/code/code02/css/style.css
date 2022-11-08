@@ -1,0 +1,26 @@
+.wrapper{
+    display: flex;
+}
+
+.d1{
+    width:100px;
+    height:100px;
+    border:1px solid;
+    background: yellow;
+}
+.d2{
+    width:100px;
+    height:100px;
+    border:1px solid;
+    background: green;
+}
+.d3{
+    width:100px;
+    height:100px;
+    border:1px solid;
+    background: yellow;
+}
+.d0{
+    width:102px;
+    height:102px;
+}
