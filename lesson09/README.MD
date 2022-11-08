@@ -204,7 +204,8 @@
 
 
 ### Додаткові завдання:
-1. Пройти тренажер <a fref = "http://www.flexboxdefense.com/">flexboxdefense</a>
+1. Пройти тренажер <a href = "http://www.flexboxdefense.com/" target = _blank>flexboxdefense</a>  
+<img src = "img/flex15.jpg">
 
 
 
