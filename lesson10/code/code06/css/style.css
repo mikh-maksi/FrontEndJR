@@ -1,0 +1,27 @@
+.maintext, .underlogo, .logo{
+    display: flex;
+}
+.logo{
+    justify-content: center;
+    border-bottom: 1px solid;
+    font-size: 30px;
+}
+.underlogo{
+    justify-content:space-around;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+.maintext{
+    border-top: 3px solid;
+    padding-top: 5px;
+}
+.d{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}

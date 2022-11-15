@@ -1,0 +1,8 @@
+.wrapper{
+    display: flex;
+}
+.d{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}

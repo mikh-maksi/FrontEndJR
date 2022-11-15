@@ -1,0 +1,21 @@
+.maintext, .underlogo, .logo{
+    display: flex;
+}
+.logo{
+    justify-content: center;
+    font-size: 30px;
+}
+.underlogo{
+    justify-content:space-around;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.maintext{
+
+}
+.d{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
