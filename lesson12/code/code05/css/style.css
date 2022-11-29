@@ -12,7 +12,7 @@ body {
   background-color: white;
   transition:0.4s;
   margin: 20px;
-  border: 1px solid #222222;
+  border: 5px dotted #222222;
 }
 
 img {

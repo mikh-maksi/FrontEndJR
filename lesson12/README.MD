@@ -36,3 +36,23 @@
 Швидкість яка стала (знизилася):
 
 <img src = "img/catalog11.gif">  
+
+###  Зовнішні відступи (margin)
+Змінимо зовнішні відступи між картками:  
+<img src = "img/catalog14.jpg">  
+Було:  
+<img src = "img/catalog12.jpg">  
+Стало (зовнішні відступи зменшилися)
+<img src = "img/catalog13.jpg">  
+
+###  Границя (border)
+Змінимо оформлення границі  
+<img src = "img/catalog15.jpg">  
+<img src = "img/catalog15_2.jpg">  
+
+Було:  
+<img src = "img/catalog16.jpg">  
+
+Стало:  
+<img src = "img/catalog17.jpg">  
+
