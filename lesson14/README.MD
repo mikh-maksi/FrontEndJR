@@ -4,6 +4,11 @@
 <img src  = "img/pages02.jpg">  
 <img src  = "img/pages03.jpg">  
 <img src  = "img/pages04.gif">  
+
+### Матеріали для сайту
+[Текст для майбутнього сайту (тема Stratford)](https://docs.google.com/document/d/1OO1N2GP5FeQLZ9X0RCgkCwP74XCNQLS7udkV79XR630/edit?usp=sharing)  
+
+
 <img src  = "img/pages05.jpg">  
 <img src  = "img/pages06.jpg">  
 <img src  = "img/pages07.jpg">  
